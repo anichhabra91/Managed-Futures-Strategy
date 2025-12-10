@@ -1,4 +1,4 @@
-# Beyond Buy-and-Hold: Building a Managed Futures Trend-Following Strategy
+# Building a Managed Futures Trend-Following Strategy
 
 ## Overview
 
